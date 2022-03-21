@@ -4,3 +4,9 @@
 
 # norm
 https://en.wikipedia.org/wiki/Norm_(mathematics)
+
+# wet werk en bijstand
+https://nl.wikipedia.org/wiki/Wet_werk_en_bijstand
+
+# particioatiewet
+https://nl.wikipedia.org/wiki/Participatiewet
